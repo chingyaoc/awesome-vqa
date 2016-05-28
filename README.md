@@ -13,7 +13,7 @@ Please feel free to contact [me](http://jameschuanggg.github.io). Issues and PRs
     - Yuke Zhu, Oliver Groth, Michael Bernstein, Li Fei-Fei, **Visual7W: Grounded Question Answering in Images**, CVPR 2016. [[Paper]](http://arxiv.org/abs/1511.03416) 
     - Hyeonwoo Noh, Paul Hongsuck Seo, and Bohyung Han, **Image Question Answering using Convolutional Neural Network with Dynamic Parameter Prediction**, CVPR, 2016.[[Paper]](http://arxiv.org/pdf/1511.05756.pdf)
     - Hauyuan Gao, Junhua Mao, Jie Zhou, Zhiheng Huang, Lei Wang, Wei Xu, **Are You Talking to a Machine? Dataset and Methods for Multilingual Image Question Answering**, NIPS 2015. [[Paper]](http://arxiv.org/pdf/1505.05612.pdf)
-    - Mateusz Malinowski, Marcus Rohrbach, Mario Fritz, Ask Your Neurons: **A Neural-based Approach to Answering Questions about Images**, ICCV 2015. [[Paper]](http://arxiv.org/pdf/1505.01121v3.pdf)
+    - Mateusz Malinowski, Marcus Rohrbach, Mario Fritz, **Ask Your Neurons: A Neural-based Approach to Answering Questions about Images**, ICCV 2015. [[Paper]](http://arxiv.org/pdf/1505.01121v3.pdf)
     - Mengye Ren, Ryan Kiros, Richard Zemel, **Exploring Models and Data for Image Question Answering**, ICML 2015. [[Paper]](http://arxiv.org/pdf/1505.02074.pdf)
     - Jacob Andreas, Marcus Rohrbach, Trevor Darrell, Dan Klein, **Learning to Compose Neural Networks for Question Answering**, NAACL 2016. [[Paper]](http://arxiv.org/pdf/1601.01705.pdf)
     - Jacob Andreas, Marcus Rohrbach, Trevor Darrell, Dan Klein, **Deep compositional question answering with neural module networks**, CVPR 2016. [[Paper]](https://arxiv.org/abs/1511.02799)
