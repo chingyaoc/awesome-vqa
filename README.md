@@ -18,16 +18,16 @@ Please feel free to contact [me](http://jameschuanggg.github.io). Issues and PRs
     - Jacob Andreas, Marcus Rohrbach, Trevor Darrell, Dan Klein, **Learning to Compose Neural Networks for Question Answering**, NAACL 2016. [[Paper]](http://arxiv.org/pdf/1601.01705.pdf)
     - Jacob Andreas, Marcus Rohrbach, Trevor Darrell, Dan Klein, **Deep compositional question answering with neural module networks**, CVPR 2016. [[Paper]](https://arxiv.org/abs/1511.02799)
      
-  - Attention-Based
+ - Attention-Based
     - Zichao Yang, Xiaodong He, Jianfeng Gao, Li Deng, Alex Smola, **Stacked Attention Networks for Image Question Answering**, CVPR 2016. [[Paper]](http://arxiv.org/abs/1511.02274)    - Kan Chen, Jiang Wang, Liang-Chieh Chen, Haoyuan Gao, Wei Xu, Ram Nevatia, **ABC-CNN: An Attention Based Convolutional Neural Network for Visual Question Answering**, arXiv:1511.05960v1, Nov 2015. [[Paper]](http://arxiv.org/pdf/1511.05960v1.pdf)
     - Huijuan Xu, Kate Saenko, **Ask, Attend and Answer: Exploring Question-Guided Spatial Attention for Visual Question Answering**, arXiv:1511.05234v1, Nov 2015. [[Paper]](http://arxiv.org/abs/1511.05234)
   
-  - Knowledge-based
+ - Knowledge-based
     - Qi Wu, Peng Wang, Chunhua Shen, Anton van den Hengel, Anthony Dick, **Ask Me Anything: Free-form Visual Question Answering Based on Knowledge from External Sources**, CVPR 2016. [[Paper]](http://arxiv.org/abs/1511.06973)
     - Peng Wang, Qi Wu, Chunhua Shen, Anton van den Hengel, Anthony Dick, **Explicit Knowledge-based Reasoning for Visual Question Answering**, arXiv:1511.02570v2, Nov 2015. [[Paper]](http://arxiv.org/abs/1511.02570)
     - Yuke Zhu, Ce Zhang, Christopher Re,́ Li Fei-Fei, **Building a Large-scale Multimodal Knowledge Base System for Answering Visual Queries**, arXiv:1507.05670, Nov 2015. [[Paper]](http://arxiv.org/abs/1507.05670)
 
-  - Memory Network
+ - Memory Network
     - Caiming Xiong, Stephen Merity, Richard Socher, **Dynamic Memory Networks for Visual and Textual Question Answering**, arXiv:1603.01417v1, Mar 2016. [[Paper]](http://arxiv.org/abs/1603.01417)
     - Aiwen Jiang, Fang Wang, Fatih Porikli, Yi Li, **Compositional Memory for Visual Question Answering**, arXiv:1511.05676v1, Nov 2015. [[Paper]](http://arxiv.org/abs/1511.05676)
 
