@@ -8,7 +8,7 @@ Please feel free to contact [me](http://jameschuanggg.github.io). Issues and PRs
 ## Papers
 ### Image QA
  - Foundational Papers
-    - Stanislaw Antol, Aishwarya Agrawal, Jiasen Lu, Margaret Mitchell, Dhruv Batra, C. Lawrence Zitnick, Devi Parikh, **VQA: Visual Question Answering**, CVPR, 2015. [[Paper]](http://arxiv.org/pdf/1505.00468)
+    - Stanislaw Antol, Aishwarya Agrawal, Jiasen Lu, Margaret Mitchell, Dhruv Batra, C. Lawrence Zitnick, Devi Parikh, **VQA: Visual Question Answering**, ICCV, 2015. [[Paper]](http://arxiv.org/pdf/1505.00468)
     - Bolei Zhou, Yuandong Tian, Sainbayar Sukhbaatar, Arthur Szlam, Rob Fergus, **Simple Baseline for Visual Question Answering**, arXiv:1512.02167v2, Dec 2015. [[Paper]](http://arxiv.org/abs/1512.02167)
     - Yuke Zhu, Oliver Groth, Michael Bernstein, Li Fei-Fei, **Visual7W: Grounded Question Answering in Images**, CVPR 2016. [[Paper]](http://arxiv.org/abs/1511.03416) 
     - Hyeonwoo Noh, Paul Hongsuck Seo, and Bohyung Han, **Image Question Answering using Convolutional Neural Network with Dynamic Parameter Prediction**, CVPR, 2016.[[Paper]](http://arxiv.org/pdf/1511.05756.pdf)
@@ -17,6 +17,8 @@ Please feel free to contact [me](http://jameschuanggg.github.io). Issues and PRs
     - Mengye Ren, Ryan Kiros, Richard Zemel, **Exploring Models and Data for Image Question Answering**, ICML 2015. [[Paper]](http://arxiv.org/pdf/1505.02074.pdf)
     - Jacob Andreas, Marcus Rohrbach, Trevor Darrell, Dan Klein, **Learning to Compose Neural Networks for Question Answering**, NAACL 2016. [[Paper]](http://arxiv.org/pdf/1601.01705.pdf)
     - Jacob Andreas, Marcus Rohrbach, Trevor Darrell, Dan Klein, **Deep compositional question answering with neural module networks**, CVPR 2016. [[Paper]](https://arxiv.org/abs/1511.02799)
+    - Mateusz Malinowski, Mario Fritz, **Towards a Visual Turing Challe**, NIPS Workshop 2015. [[Paper]](http://arxiv.org/abs/1410.8027)
+    - Mateusz Malinowski, Mario Fritz, **A Multi-World Approach to Question Answering about Real-World Scenes based on Uncertain Input**, NIPS 2014. [[Paper]](http://arxiv.org/pdf/1410.0210v4.pdf)
      
  - Attention-Based
     - Zichao Yang, Xiaodong He, Jianfeng Gao, Li Deng, Alex Smola, **Stacked Attention Networks for Image Question Answering**, CVPR 2016. [[Paper]](http://arxiv.org/abs/1511.02274)    - Kan Chen, Jiang Wang, Liang-Chieh Chen, Haoyuan Gao, Wei Xu, Ram Nevatia, **ABC-CNN: An Attention Based Convolutional Neural Network for Visual Question Answering**, arXiv:1511.05960v1, Nov 2015. [[Paper]](http://arxiv.org/pdf/1511.05960v1.pdf)
