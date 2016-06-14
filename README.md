@@ -7,7 +7,7 @@ Please feel free to contact [me](http://jameschuanggg.github.io). Issues and PRs
 
 ## Papers
 ### Image QA
- - Foundational Papers
+ - Latest Papers
     - Hyeonwoo Noh, Bohyung Han, **Training Recurrent Answering Units with Joint Loss Minimization for VQA**, 	arXiv:1606.03647, 2016. [[Paper]](http://arxiv.org/abs/1606.03647v1) 
     - Jin-Hwa Kim, Sang-Woo Lee, Dong-Hyun Kwak, Min-Oh Heo, Jeonghee Kim, Jung-Woo Ha, Byoung-Tak Zhang, **Multimodal Residual Learning for Visual QA**, arXiv:1606.01455, 2016. [[Paper]](https://arxiv.org/pdf/1606.01455v1.pdf) 
     - Yuke Zhu, Oliver Groth, Michael Bernstein, Li Fei-Fei, **Visual7W: Grounded Question Answering in Images**, CVPR 2016. [[Paper]](http://arxiv.org/abs/1511.03416) 
