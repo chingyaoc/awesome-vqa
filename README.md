@@ -32,7 +32,7 @@ Please feel free to contact [me](http://jameschuanggg.github.io). Issues and PRs
     - Yuke Zhu, Ce Zhang, Christopher Re,́ Li Fei-Fei, **Building a Large-scale Multimodal Knowledge Base System for Answering Visual Queries**, arXiv:1507.05670, Nov 2015. [[Paper]](http://arxiv.org/abs/1507.05670)
 
  - Memory Network
-    - Caiming Xiong, Stephen Merity, Richard Socher, **Dynamic Memory Networks for Visual and Textual Question Answering**, arXiv:1603.01417v1, Mar 2016. [[Paper]](http://arxiv.org/abs/1603.01417)
+    - Caiming Xiong, Stephen Merity, Richard Socher, **Dynamic Memory Networks for Visual and Textual Question Answering**, ICML 2016. [[Paper]](http://arxiv.org/abs/1603.01417)
     - Aiwen Jiang, Fang Wang, Fatih Porikli, Yi Li, **Compositional Memory for Visual Question Answering**, arXiv:1511.05676v1, Nov 2015. [[Paper]](http://arxiv.org/abs/1511.05676)
 
 ### Video QA
