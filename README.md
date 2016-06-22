@@ -10,6 +10,7 @@ Please feel free to contact [me](http://jameschuanggg.github.io). Issues and PRs
  - Latest Papers
     - Arijit Ray, Gordon Christie, Mohit Bansal, Dhruv Batra, Devi Parikh, **Question Relevance in VQA: Identifying Non-Visual And False-Premise Questions**, 	arXiv:1606.06622, 2016. [[Paper]](https://arxiv.org/pdf/1606.06622v1.pdf) 
     - Hyeonwoo Noh, Bohyung Han, **Training Recurrent Answering Units with Joint Loss Minimization for VQA**, 	arXiv:1606.03647, 2016. [[Paper]](http://arxiv.org/abs/1606.03647v1) 
+    - Jiasen Lu, Jianwei Yang, Dhruv Batra, Devi Parikh, **Hierarchical Question-Image Co-Attention for Visual Question Answering**, 	arXiv:1606.00061, 2016. [[Paper]](https://arxiv.org/pdf/1606.00061v2.pdf) 
     - Jin-Hwa Kim, Sang-Woo Lee, Dong-Hyun Kwak, Min-Oh Heo, Jeonghee Kim, Jung-Woo Ha, Byoung-Tak Zhang, **Multimodal Residual Learning for Visual QA**, arXiv:1606.01455, 2016. [[Paper]](https://arxiv.org/pdf/1606.01455v1.pdf) 
     - Yuke Zhu, Oliver Groth, Michael Bernstein, Li Fei-Fei, **Visual7W: Grounded Question Answering in Images**, CVPR 2016. [[Paper]](http://arxiv.org/abs/1511.03416) 
     - Hyeonwoo Noh, Paul Hongsuck Seo, and Bohyung Han, **Image Question Answering using Convolutional Neural Network with Dynamic Parameter Prediction**, CVPR, 2016.[[Paper]](http://arxiv.org/pdf/1511.05756.pdf)
