@@ -22,7 +22,7 @@ Akira Fukui, Dong Huk Park, Daylen Yang, Anna Rohrbach, Trevor Darrell, Marcus R
     - Jacob Andreas, Marcus Rohrbach, Trevor Darrell, Dan Klein, **Learning to Compose Neural Networks for Question Answering**, NAACL 2016. [[Paper]](http://arxiv.org/pdf/1601.01705.pdf)
     - Jacob Andreas, Marcus Rohrbach, Trevor Darrell, Dan Klein, **Deep compositional question answering with neural module networks**, CVPR 2016. [[Paper]](https://arxiv.org/abs/1511.02799)
     - Zichao Yang, Xiaodong He, Jianfeng Gao, Li Deng, Alex Smola, **Stacked Attention Networks for Image Question Answering**, CVPR 2016. [[Paper]](http://arxiv.org/abs/1511.02274)    
-    - Kevin J. Shih, Saurabh Singh, Derek Hoiem, **Where To Look: Focus Regions for Visual Question Answering**, CVPR, 2015. [[Paper]](http://arxiv.org/pdf/1511.07394v2.pdf)
+    - Kevin J. Shih, Saurabh Singh, Derek Hoiem, **Where To Look: Focus Regions for Visual Question Answering**, CVPR, 2015. [[Paper]](http://arxiv.org/pdf/1511.07394v2.pdf)        
     - Kan Chen, Jiang Wang, Liang-Chieh Chen, Haoyuan Gao, Wei Xu, Ram Nevatia, **ABC-CNN: An Attention Based Convolutional Neural Network for Visual Question Answering**, arXiv:1511.05960v1, Nov 2015. [[Paper]](http://arxiv.org/pdf/1511.05960v1.pdf)
     - Huijuan Xu, Kate Saenko, **Ask, Attend and Answer: Exploring Question-Guided Spatial Attention for Visual Question Answering**, arXiv:1511.05234v1, Nov 2015. [[Paper]](http://arxiv.org/abs/1511.05234)
     - Stanislaw Antol, Aishwarya Agrawal, Jiasen Lu, Margaret Mitchell, Dhruv Batra, C. Lawrence Zitnick, Devi Parikh, **VQA: Visual Question Answering**, ICCV, 2015. [[Paper]](http://arxiv.org/pdf/1505.00468)
