@@ -18,6 +18,7 @@ Akira Fukui, Dong Huk Park, Daylen Yang, Anna Rohrbach, Trevor Darrell, Marcus R
     - Hyeonwoo Noh, Bohyung Han, **Training Recurrent Answering Units with Joint Loss Minimization for VQA**, 	arXiv:1606.03647, 2016. [[Paper]](http://arxiv.org/abs/1606.03647v1) 
     - Jiasen Lu, Jianwei Yang, Dhruv Batra, Devi Parikh, **Hierarchical Question-Image Co-Attention for Visual Question Answering**, 	arXiv:1606.00061, 2016. [[Paper]](https://arxiv.org/pdf/1606.00061v2.pdf) 
     - Jin-Hwa Kim, Sang-Woo Lee, Dong-Hyun Kwak, Min-Oh Heo, Jeonghee Kim, Jung-Woo Ha, Byoung-Tak Zhang, **Multimodal Residual Learning for Visual QA**, arXiv:1606.01455, 2016. [[Paper]](https://arxiv.org/pdf/1606.01455v1.pdf) 
+    - Ilija Ilievski, Shuicheng Yan, Jiashi Feng, **A Focused Dynamic Attention Model for Visual Question Answering**, arXiv:1604.01485. [[Paper]](https://arxiv.org/pdf/1604.01485v1.pdf)
     - Yuke Zhu, Oliver Groth, Michael Bernstein, Li Fei-Fei, **Visual7W: Grounded Question Answering in Images**, CVPR 2016. [[Paper]](http://arxiv.org/abs/1511.03416) 
     - Hyeonwoo Noh, Paul Hongsuck Seo, and Bohyung Han, **Image Question Answering using Convolutional Neural Network with Dynamic Parameter Prediction**, CVPR, 2016.[[Paper]](http://arxiv.org/pdf/1511.05756.pdf)
     - Jacob Andreas, Marcus Rohrbach, Trevor Darrell, Dan Klein, **Learning to Compose Neural Networks for Question Answering**, NAACL 2016. [[Paper]](http://arxiv.org/pdf/1601.01705.pdf)
@@ -35,9 +36,12 @@ Akira Fukui, Dong Huk Park, Daylen Yang, Anna Rohrbach, Trevor Darrell, Marcus R
     - Mateusz Malinowski, Mario Fritz, **A Multi-World Approach to Question Answering about Real-World Scenes based on Uncertain Input**, NIPS 2014. [[Paper]](http://arxiv.org/pdf/1410.0210v4.pdf)
      
  - Attention-Based
+    - Akira Fukui, Dong Huk Park, Daylen Yang, Anna Rohrbach, Trevor Darrell, Marcus Rohrbach, **Multimodal Compact Bilinear Pooling for Visual Question Answering and Visual Grounding**,	arXiv:1606.01847, 2016. [[Paper]](https://arxiv.org/abs/1606.01847)
     - Hyeonwoo Noh, Bohyung Han, **Training Recurrent Answering Units with Joint Loss Minimization for VQA**, 	arXiv:1606.03647, 2016. [[Paper]](http://arxiv.org/abs/1606.03647v1) 
     - Jiasen Lu, Jianwei Yang, Dhruv Batra, Devi Parikh, **Hierarchical Question-Image Co-Attention for Visual Question Answering**, 	arXiv:1606.00061, 2016. [[Paper]](https://arxiv.org/pdf/1606.00061v2.pdf)
-    - Zichao Yang, Xiaodong He, Jianfeng Gao, Li Deng, Alex Smola, **Stacked Attention Networks for Image Question Answering**, CVPR 2016. [[Paper]](http://arxiv.org/abs/1511.02274)    - Kan Chen, Jiang Wang, Liang-Chieh Chen, Haoyuan Gao, Wei Xu, Ram Nevatia, **ABC-CNN: An Attention Based Convolutional Neural Network for Visual Question Answering**, arXiv:1511.05960v1, Nov 2015. [[Paper]](http://arxiv.org/pdf/1511.05960v1.pdf)
+    - Zichao Yang, Xiaodong He, Jianfeng Gao, Li Deng, Alex Smola, **Stacked Attention Networks for Image Question Answering**, CVPR 2016. [[Paper]](http://arxiv.org/abs/1511.02274)    
+    - Ilija Ilievski, Shuicheng Yan, Jiashi Feng, **A Focused Dynamic Attention Model for Visual Question Answering**, arXiv:1604.01485. [[Paper]](https://arxiv.org/pdf/1604.01485v1.pdf)
+    - Kan Chen, Jiang Wang, Liang-Chieh Chen, Haoyuan Gao, Wei Xu, Ram Nevatia, **ABC-CNN: An Attention Based Convolutional Neural Network for Visual Question Answering**, arXiv:1511.05960v1, Nov 2015. [[Paper]](http://arxiv.org/pdf/1511.05960v1.pdf)
     - Huijuan Xu, Kate Saenko, **Ask, Attend and Answer: Exploring Question-Guided Spatial Attention for Visual Question Answering**, arXiv:1511.05234v1, Nov 2015. [[Paper]](http://arxiv.org/abs/1511.05234)
   
  - Knowledge-based
