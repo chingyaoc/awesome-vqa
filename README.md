@@ -18,6 +18,7 @@ Akira Fukui, Dong Huk Park, Daylen Yang, Anna Rohrbach, Trevor Darrell, Marcus R
     - Hyeonwoo Noh, Bohyung Han, **Training Recurrent Answering Units with Joint Loss Minimization for VQA**, 	arXiv:1606.03647, 2016. [[Paper]](http://arxiv.org/abs/1606.03647v1) 
     - Jiasen Lu, Jianwei Yang, Dhruv Batra, Devi Parikh, **Hierarchical Question-Image Co-Attention for Visual Question Answering**, 	arXiv:1606.00061, 2016. [[Paper]](https://arxiv.org/pdf/1606.00061v2.pdf) 
     - Jin-Hwa Kim, Sang-Woo Lee, Dong-Hyun Kwak, Min-Oh Heo, Jeonghee Kim, Jung-Woo Ha, Byoung-Tak Zhang, **Multimodal Residual Learning for Visual QA**, arXiv:1606.01455, 2016. [[Paper]](https://arxiv.org/pdf/1606.01455v1.pdf) 
+    - Peng Wang, Qi Wu, Chunhua Shen, Anton van den Hengel, Anthony Dick, **FVQA: Fact-based Visual Question Answering**, arXiv:1606.05433, 2016. [[Paper]](https://arxiv.org/pdf/1606.05433.pdf)
     - Ilija Ilievski, Shuicheng Yan, Jiashi Feng, **A Focused Dynamic Attention Model for Visual Question Answering**, arXiv:1604.01485. [[Paper]](https://arxiv.org/pdf/1604.01485v1.pdf)
     - Yuke Zhu, Oliver Groth, Michael Bernstein, Li Fei-Fei, **Visual7W: Grounded Question Answering in Images**, CVPR 2016. [[Paper]](http://arxiv.org/abs/1511.03416) 
     - Hyeonwoo Noh, Paul Hongsuck Seo, and Bohyung Han, **Image Question Answering using Convolutional Neural Network with Dynamic Parameter Prediction**, CVPR, 2016.[[Paper]](http://arxiv.org/pdf/1511.05756.pdf)
@@ -45,6 +46,7 @@ Akira Fukui, Dong Huk Park, Daylen Yang, Anna Rohrbach, Trevor Darrell, Marcus R
     - Huijuan Xu, Kate Saenko, **Ask, Attend and Answer: Exploring Question-Guided Spatial Attention for Visual Question Answering**, arXiv:1511.05234v1, Nov 2015. [[Paper]](http://arxiv.org/abs/1511.05234)
   
  - Knowledge-based
+    - Peng Wang, Qi Wu, Chunhua Shen, Anton van den Hengel, Anthony Dick, **FVQA: Fact-based Visual Question Answering**, arXiv:1606.05433, 2016. [[Paper]](https://arxiv.org/pdf/1606.05433.pdf)
     - Qi Wu, Peng Wang, Chunhua Shen, Anton van den Hengel, Anthony Dick, **Ask Me Anything: Free-form Visual Question Answering Based on Knowledge from External Sources**, CVPR 2016. [[Paper]](http://arxiv.org/abs/1511.06973)
     - Peng Wang, Qi Wu, Chunhua Shen, Anton van den Hengel, Anthony Dick, **Explicit Knowledge-based Reasoning for Visual Question Answering**, arXiv:1511.02570v2, Nov 2015. [[Paper]](http://arxiv.org/abs/1511.02570)
     - Yuke Zhu, Ce Zhang, Christopher Re,́ Li Fei-Fei, **Building a Large-scale Multimodal Knowledge Base System for Answering Visual Queries**, arXiv:1507.05670, Nov 2015. [[Paper]](http://arxiv.org/abs/1507.05670)
