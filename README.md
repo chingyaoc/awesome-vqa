@@ -12,6 +12,7 @@ Akira Fukui, Dong Huk Park, Daylen Yang, Anna Rohrbach, Trevor Darrell, Marcus R
 ## Papers
 ### Image QA
  - Latest Papers
+    - Jin-Hwa Kim, Kyoung Woon On, Jeonghee Kim, Jung-Woo Ha, Byoung-Tak Zhang, **Hadamard Product for Low-rank Bilinear Pooling**, arXiv:1610.04325, 2016. [[Paper]](https://arxiv.org/abs/1610.04325)
     - Akira Fukui, Dong Huk Park, Daylen Yang, Anna Rohrbach, Trevor Darrell, Marcus Rohrbach, **Multimodal Compact Bilinear Pooling for Visual Question Answering and Visual Grounding**,	arXiv:1606.01847, 2016. [[Paper]](https://arxiv.org/abs/1606.01847) [[code]](https://github.com/akirafukui/vqa-mcb)
     - Kuniaki Saito, Andrew Shin, Yoshitaka Ushiku, Tatsuya Harada, **DualNet: Domain-Invariant Network for Visual Question Answering**. arXiv:1606.06108v1, 2016. [[Paper]](https://arxiv.org/pdf/1606.06108.pdf) 
     - Arijit Ray, Gordon Christie, Mohit Bansal, Dhruv Batra, Devi Parikh, **Question Relevance in VQA: Identifying Non-Visual And False-Premise Questions**, 	arXiv:1606.06622, 2016. [[Paper]](https://arxiv.org/pdf/1606.06622v1.pdf) 
@@ -37,6 +38,7 @@ Akira Fukui, Dong Huk Park, Daylen Yang, Anna Rohrbach, Trevor Darrell, Marcus R
     - Mateusz Malinowski, Mario Fritz, **A Multi-World Approach to Question Answering about Real-World Scenes based on Uncertain Input**, NIPS 2014. [[Paper]](http://arxiv.org/pdf/1410.0210v4.pdf)
      
  - Attention-Based
+    - Jin-Hwa Kim, Kyoung Woon On, Jeonghee Kim, Jung-Woo Ha, Byoung-Tak Zhang, **Hadamard Product for Low-rank Bilinear Pooling**, arXiv:1610.04325, 2016. [[Paper]](https://arxiv.org/abs/1610.04325)
     - Akira Fukui, Dong Huk Park, Daylen Yang, Anna Rohrbach, Trevor Darrell, Marcus Rohrbach, **Multimodal Compact Bilinear Pooling for Visual Question Answering and Visual Grounding**,	arXiv:1606.01847, 2016. [[Paper]](https://arxiv.org/abs/1606.01847)
     - Hyeonwoo Noh, Bohyung Han, **Training Recurrent Answering Units with Joint Loss Minimization for VQA**, 	arXiv:1606.03647, 2016. [[Paper]](http://arxiv.org/abs/1606.03647v1) 
     - Jiasen Lu, Jianwei Yang, Dhruv Batra, Devi Parikh, **Hierarchical Question-Image Co-Attention for Visual Question Answering**, 	arXiv:1606.00061, 2016. [[Paper]](https://arxiv.org/pdf/1606.00061v2.pdf)
