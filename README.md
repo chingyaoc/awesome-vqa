@@ -5,13 +5,14 @@ A reading list of resources dedicated to visual(image/video) question answering.
 ## Contributing
 Please feel free to contact [me](http://jameschuanggg.github.io). Issues and PRs are also welcome.
 
-## NEWS: Winner of CVPR VQA Challenge Workshop
-Akira Fukui, Dong Huk Park, Daylen Yang, Anna Rohrbach, Trevor Darrell, Marcus Rohrbach, **Multimodal Compact Bilinear Pooling for Visual Question Answering and Visual Grounding**, 	arXiv:1606.01847, 2016. [[Paper]](https://arxiv.org/abs/1606.01847) 
-![](http://i.imgur.com/qALGdr5.png)
+## NEWS: Latest State-of-The-Art
+Hyeonseob Nam, Jung-Woo Ha, Jeonghee Kim, **Dual Attention Networks for Multimodal Reasoning and Matching**, 		arXiv:1611.00471, 2016. [[Paper]](https://arxiv.org/abs/1611.00471)    
+<img src="file/datt.png" width="60%"/>   
 
 ## Papers
 ### Image QA
  - Latest Papers
+    - Hyeonseob Nam, Jung-Woo Ha, Jeonghee Kim, **Dual Attention Networks for Multimodal Reasoning and Matching**, 		arXiv:1611.00471, 2016. [[Paper]](https://arxiv.org/abs/1611.00471) 
     - Jin-Hwa Kim, Kyoung Woon On, Jeonghee Kim, Jung-Woo Ha, Byoung-Tak Zhang, **Hadamard Product for Low-rank Bilinear Pooling**, arXiv:1610.04325, 2016. [[Paper]](https://arxiv.org/abs/1610.04325)
     - Akira Fukui, Dong Huk Park, Daylen Yang, Anna Rohrbach, Trevor Darrell, Marcus Rohrbach, **Multimodal Compact Bilinear Pooling for Visual Question Answering and Visual Grounding**,	arXiv:1606.01847, 2016. [[Paper]](https://arxiv.org/abs/1606.01847) [[code]](https://github.com/akirafukui/vqa-mcb)
     - Kuniaki Saito, Andrew Shin, Yoshitaka Ushiku, Tatsuya Harada, **DualNet: Domain-Invariant Network for Visual Question Answering**. arXiv:1606.06108v1, 2016. [[Paper]](https://arxiv.org/pdf/1606.06108.pdf) 
@@ -58,5 +59,6 @@ Akira Fukui, Dong Huk Park, Daylen Yang, Anna Rohrbach, Trevor Darrell, Marcus R
     - Aiwen Jiang, Fang Wang, Fatih Porikli, Yi Li, **Compositional Memory for Visual Question Answering**, arXiv:1511.05676v1, Nov 2015. [[Paper]](http://arxiv.org/abs/1511.05676)
 
 ### Video QA
+  - Kuo-Hao Zeng, Tseng-Hung Chen, Ching-Yao Chuang, Yuan-Hong Liao, Juan Carlos Niebles, Min Sun, **Leveraging Video Descriptions to Learn Video Question Answering**, AAAI 2017. [[paper]](https://arxiv.org/abs/1611.04021)
   - Makarand Tapaswi, Yukun Zhu, Rainer Stiefelhagen, Antonio Torralba, Raquel Urtasun, Sanja Fidler, **MovieQA: Understanding Stories in Movies through Question-Answering**, CVPR 2016. [[Paper]](http://arxiv.org/abs/1512.02902)
   - Linchao Zhu, Zhongwen Xu, Yi Yang, Alexander G. Hauptmann, **Uncovering Temporal Context for Video Question and Answering**, arXiv:1511.05676v1, Nov 2015. [[Paper]](http://arxiv.org/abs/1511.04670)
