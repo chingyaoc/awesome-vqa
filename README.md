@@ -5,18 +5,20 @@ A reading list of resources dedicated to visual(image/video) question answering.
 ## Contributing
 Please feel free to contact [me](http://jameschuanggg.github.io). Issues and PRs are also welcome.
 
-## NEWS: Winner of CVPR VQA Challenge Workshop
-Akira Fukui, Dong Huk Park, Daylen Yang, Anna Rohrbach, Trevor Darrell, Marcus Rohrbach, **Multimodal Compact Bilinear Pooling for Visual Question Answering and Visual Grounding**, 	arXiv:1606.01847, 2016. [[Paper]](https://arxiv.org/abs/1606.01847) 
-![](http://i.imgur.com/qALGdr5.png)
+## NEWS: Latest State-of-The-Art
+Hyeonseob Nam, Jung-Woo Ha, Jeonghee Kim, **Dual Attention Networks for Multimodal Reasoning and Matching**, 		arXiv:1611.00471, 2016. [[Paper]](https://arxiv.org/abs/1611.00471)    
+<img src="file/datt.png" width="60%"/>   
 
 ## Papers
 ### Image QA
  - Latest Papers
-    - Akira Fukui, Dong Huk Park, Daylen Yang, Anna Rohrbach, Trevor Darrell, Marcus Rohrbach, **Multimodal Compact Bilinear Pooling for Visual Question Answering and Visual Grounding**,	arXiv:1606.01847, 2016. [[Paper]](https://arxiv.org/abs/1606.01847) 
+    - Hyeonseob Nam, Jung-Woo Ha, Jeonghee Kim, **Dual Attention Networks for Multimodal Reasoning and Matching**, 		arXiv:1611.00471, 2016. [[Paper]](https://arxiv.org/abs/1611.00471) 
+    - Jin-Hwa Kim, Kyoung Woon On, Jeonghee Kim, Jung-Woo Ha, Byoung-Tak Zhang, **Hadamard Product for Low-rank Bilinear Pooling**, arXiv:1610.04325, 2016. [[Paper]](https://arxiv.org/abs/1610.04325)
+    - Akira Fukui, Dong Huk Park, Daylen Yang, Anna Rohrbach, Trevor Darrell, Marcus Rohrbach, **Multimodal Compact Bilinear Pooling for Visual Question Answering and Visual Grounding**,	arXiv:1606.01847, 2016. [[Paper]](https://arxiv.org/abs/1606.01847) [[code]](https://github.com/akirafukui/vqa-mcb)
     - Kuniaki Saito, Andrew Shin, Yoshitaka Ushiku, Tatsuya Harada, **DualNet: Domain-Invariant Network for Visual Question Answering**. arXiv:1606.06108v1, 2016. [[Paper]](https://arxiv.org/pdf/1606.06108.pdf) 
     - Arijit Ray, Gordon Christie, Mohit Bansal, Dhruv Batra, Devi Parikh, **Question Relevance in VQA: Identifying Non-Visual And False-Premise Questions**, 	arXiv:1606.06622, 2016. [[Paper]](https://arxiv.org/pdf/1606.06622v1.pdf) 
     - Hyeonwoo Noh, Bohyung Han, **Training Recurrent Answering Units with Joint Loss Minimization for VQA**, 	arXiv:1606.03647, 2016. [[Paper]](http://arxiv.org/abs/1606.03647v1) 
-    - Jiasen Lu, Jianwei Yang, Dhruv Batra, Devi Parikh, **Hierarchical Question-Image Co-Attention for Visual Question Answering**, 	arXiv:1606.00061, 2016. [[Paper]](https://arxiv.org/pdf/1606.00061v2.pdf) 
+    - Jiasen Lu, Jianwei Yang, Dhruv Batra, Devi Parikh, **Hierarchical Question-Image Co-Attention for Visual Question Answering**, 	arXiv:1606.00061, 2016. [[Paper]](https://arxiv.org/pdf/1606.00061v2.pdf) [[code]](https://github.com/jiasenlu/HieCoAttenVQA)
     - Jin-Hwa Kim, Sang-Woo Lee, Dong-Hyun Kwak, Min-Oh Heo, Jeonghee Kim, Jung-Woo Ha, Byoung-Tak Zhang, **Multimodal Residual Learning for Visual QA**, arXiv:1606.01455, 2016. [[Paper]](https://arxiv.org/pdf/1606.01455v1.pdf) 
     - Peng Wang, Qi Wu, Chunhua Shen, Anton van den Hengel, Anthony Dick, **FVQA: Fact-based Visual Question Answering**, arXiv:1606.05433, 2016. [[Paper]](https://arxiv.org/pdf/1606.05433.pdf)
     - Ilija Ilievski, Shuicheng Yan, Jiashi Feng, **A Focused Dynamic Attention Model for Visual Question Answering**, arXiv:1604.01485. [[Paper]](https://arxiv.org/pdf/1604.01485v1.pdf)
@@ -24,12 +26,16 @@ Akira Fukui, Dong Huk Park, Daylen Yang, Anna Rohrbach, Trevor Darrell, Marcus R
     - Hyeonwoo Noh, Paul Hongsuck Seo, and Bohyung Han, **Image Question Answering using Convolutional Neural Network with Dynamic Parameter Prediction**, CVPR, 2016.[[Paper]](http://arxiv.org/pdf/1511.05756.pdf)
     - Jacob Andreas, Marcus Rohrbach, Trevor Darrell, Dan Klein, **Learning to Compose Neural Networks for Question Answering**, NAACL 2016. [[Paper]](http://arxiv.org/pdf/1601.01705.pdf)
     - Jacob Andreas, Marcus Rohrbach, Trevor Darrell, Dan Klein, **Deep compositional question answering with neural module networks**, CVPR 2016. [[Paper]](https://arxiv.org/abs/1511.02799)
-    - Zichao Yang, Xiaodong He, Jianfeng Gao, Li Deng, Alex Smola, **Stacked Attention Networks for Image Question Answering**, CVPR 2016. [[Paper]](http://arxiv.org/abs/1511.02274)    
+    - Zichao Yang, Xiaodong He, Jianfeng Gao, Li Deng, Alex Smola, **Stacked Attention Networks for Image Question Answering**, CVPR 2016. [[Paper]](http://arxiv.org/abs/1511.02274) [[code]](https://github.com/JamesChuanggg/san-torch)    
     - Kevin J. Shih, Saurabh Singh, Derek Hoiem, **Where To Look: Focus Regions for Visual Question Answering**, CVPR, 2015. [[Paper]](http://arxiv.org/pdf/1511.07394v2.pdf)        
     - Kan Chen, Jiang Wang, Liang-Chieh Chen, Haoyuan Gao, Wei Xu, Ram Nevatia, **ABC-CNN: An Attention Based Convolutional Neural Network for Visual Question Answering**, arXiv:1511.05960v1, Nov 2015. [[Paper]](http://arxiv.org/pdf/1511.05960v1.pdf)
     - Huijuan Xu, Kate Saenko, **Ask, Attend and Answer: Exploring Question-Guided Spatial Attention for Visual Question Answering**, arXiv:1511.05234v1, Nov 2015. [[Paper]](http://arxiv.org/abs/1511.05234)
+<<<<<<< HEAD
     - Kushal Kafle and Christopher Kanan, **Answer-Type Prediction for Visual Question Answering**, CVPR 2016.  [[Paper]](http://www.cv-foundation.org/openaccess/content_cvpr_2016/html/Kafle_Answer-Type_Prediction_for_CVPR_2016_paper.html) 
     - Stanislaw Antol, Aishwarya Agrawal, Jiasen Lu, Margaret Mitchell, Dhruv Batra, C. Lawrence Zitnick, Devi Parikh, **VQA: Visual Question Answering**, ICCV, 2015. [[Paper]](http://arxiv.org/pdf/1505.00468)
+=======
+    - Stanislaw Antol, Aishwarya Agrawal, Jiasen Lu, Margaret Mitchell, Dhruv Batra, C. Lawrence Zitnick, Devi Parikh, **VQA: Visual Question Answering**, ICCV, 2015. [[Paper]](http://arxiv.org/pdf/1505.00468) [[code]](https://github.com/JamesChuanggg/VQA-tensorflow)
+>>>>>>> f0455f47048310d903a6d26a8dc30dfd5c2ae8e8
     - Bolei Zhou, Yuandong Tian, Sainbayar Sukhbaatar, Arthur Szlam, Rob Fergus, **Simple Baseline for Visual Question Answering**, arXiv:1512.02167v2, Dec 2015. [[Paper]](http://arxiv.org/abs/1512.02167)
     - Hauyuan Gao, Junhua Mao, Jie Zhou, Zhiheng Huang, Lei Wang, Wei Xu, **Are You Talking to a Machine? Dataset and Methods for Multilingual Image Question Answering**, NIPS 2015. [[Paper]](http://arxiv.org/pdf/1505.05612.pdf)
     - Mateusz Malinowski, Marcus Rohrbach, Mario Fritz, **Ask Your Neurons: A Neural-based Approach to Answering Questions about Images**, ICCV 2015. [[Paper]](http://arxiv.org/pdf/1505.01121v3.pdf)
@@ -38,6 +44,7 @@ Akira Fukui, Dong Huk Park, Daylen Yang, Anna Rohrbach, Trevor Darrell, Marcus R
     - Mateusz Malinowski, Mario Fritz, **A Multi-World Approach to Question Answering about Real-World Scenes based on Uncertain Input**, NIPS 2014. [[Paper]](http://arxiv.org/pdf/1410.0210v4.pdf)
      
  - Attention-Based
+    - Jin-Hwa Kim, Kyoung Woon On, Jeonghee Kim, Jung-Woo Ha, Byoung-Tak Zhang, **Hadamard Product for Low-rank Bilinear Pooling**, arXiv:1610.04325, 2016. [[Paper]](https://arxiv.org/abs/1610.04325)
     - Akira Fukui, Dong Huk Park, Daylen Yang, Anna Rohrbach, Trevor Darrell, Marcus Rohrbach, **Multimodal Compact Bilinear Pooling for Visual Question Answering and Visual Grounding**,	arXiv:1606.01847, 2016. [[Paper]](https://arxiv.org/abs/1606.01847)
     - Hyeonwoo Noh, Bohyung Han, **Training Recurrent Answering Units with Joint Loss Minimization for VQA**, 	arXiv:1606.03647, 2016. [[Paper]](http://arxiv.org/abs/1606.03647v1) 
     - Jiasen Lu, Jianwei Yang, Dhruv Batra, Devi Parikh, **Hierarchical Question-Image Co-Attention for Visual Question Answering**, 	arXiv:1606.00061, 2016. [[Paper]](https://arxiv.org/pdf/1606.00061v2.pdf)
@@ -57,5 +64,6 @@ Akira Fukui, Dong Huk Park, Daylen Yang, Anna Rohrbach, Trevor Darrell, Marcus R
     - Aiwen Jiang, Fang Wang, Fatih Porikli, Yi Li, **Compositional Memory for Visual Question Answering**, arXiv:1511.05676v1, Nov 2015. [[Paper]](http://arxiv.org/abs/1511.05676)
 
 ### Video QA
+  - Kuo-Hao Zeng, Tseng-Hung Chen, Ching-Yao Chuang, Yuan-Hong Liao, Juan Carlos Niebles, Min Sun, **Leveraging Video Descriptions to Learn Video Question Answering**, AAAI 2017. [[paper]](https://arxiv.org/abs/1611.04021)
   - Makarand Tapaswi, Yukun Zhu, Rainer Stiefelhagen, Antonio Torralba, Raquel Urtasun, Sanja Fidler, **MovieQA: Understanding Stories in Movies through Question-Answering**, CVPR 2016. [[Paper]](http://arxiv.org/abs/1512.02902)
   - Linchao Zhu, Zhongwen Xu, Yi Yang, Alexander G. Hauptmann, **Uncovering Temporal Context for Video Question and Answering**, arXiv:1511.05676v1, Nov 2015. [[Paper]](http://arxiv.org/abs/1511.04670)
