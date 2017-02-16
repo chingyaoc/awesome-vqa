@@ -30,7 +30,12 @@ Hyeonseob Nam, Jung-Woo Ha, Jeonghee Kim, **Dual Attention Networks for Multimod
     - Kevin J. Shih, Saurabh Singh, Derek Hoiem, **Where To Look: Focus Regions for Visual Question Answering**, CVPR, 2015. [[Paper]](http://arxiv.org/pdf/1511.07394v2.pdf)        
     - Kan Chen, Jiang Wang, Liang-Chieh Chen, Haoyuan Gao, Wei Xu, Ram Nevatia, **ABC-CNN: An Attention Based Convolutional Neural Network for Visual Question Answering**, arXiv:1511.05960v1, Nov 2015. [[Paper]](http://arxiv.org/pdf/1511.05960v1.pdf)
     - Huijuan Xu, Kate Saenko, **Ask, Attend and Answer: Exploring Question-Guided Spatial Attention for Visual Question Answering**, arXiv:1511.05234v1, Nov 2015. [[Paper]](http://arxiv.org/abs/1511.05234)
+<<<<<<< HEAD
+    - Kushal Kafle and Christopher Kanan, **Answer-Type Prediction for Visual Question Answering**, CVPR 2016.  [[Paper]](http://www.cv-foundation.org/openaccess/content_cvpr_2016/html/Kafle_Answer-Type_Prediction_for_CVPR_2016_paper.html) 
+    - Stanislaw Antol, Aishwarya Agrawal, Jiasen Lu, Margaret Mitchell, Dhruv Batra, C. Lawrence Zitnick, Devi Parikh, **VQA: Visual Question Answering**, ICCV, 2015. [[Paper]](http://arxiv.org/pdf/1505.00468)
+=======
     - Stanislaw Antol, Aishwarya Agrawal, Jiasen Lu, Margaret Mitchell, Dhruv Batra, C. Lawrence Zitnick, Devi Parikh, **VQA: Visual Question Answering**, ICCV, 2015. [[Paper]](http://arxiv.org/pdf/1505.00468) [[code]](https://github.com/JamesChuanggg/VQA-tensorflow)
+>>>>>>> f0455f47048310d903a6d26a8dc30dfd5c2ae8e8
     - Bolei Zhou, Yuandong Tian, Sainbayar Sukhbaatar, Arthur Szlam, Rob Fergus, **Simple Baseline for Visual Question Answering**, arXiv:1512.02167v2, Dec 2015. [[Paper]](http://arxiv.org/abs/1512.02167)
     - Hauyuan Gao, Junhua Mao, Jie Zhou, Zhiheng Huang, Lei Wang, Wei Xu, **Are You Talking to a Machine? Dataset and Methods for Multilingual Image Question Answering**, NIPS 2015. [[Paper]](http://arxiv.org/pdf/1505.05612.pdf)
     - Mateusz Malinowski, Marcus Rohrbach, Mario Fritz, **Ask Your Neurons: A Neural-based Approach to Answering Questions about Images**, ICCV 2015. [[Paper]](http://arxiv.org/pdf/1505.01121v3.pdf)
