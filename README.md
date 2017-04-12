@@ -7,7 +7,10 @@ Please feel free to contact [me](http://jameschuanggg.github.io). Issues and PRs
 
 ## NEWS: Latest State-of-The-Art
 Vahid Kazemi, Ali Elqursh, **Show, Ask, Attend, and Answer:
-A Strong Baseline For Visual Question Answering**, 			arXiv:1704.03162, 2016. [[Paper]](https://arxiv.org/abs/1704.03162)    
+A Strong Baseline For Visual Question Answering**, 			arXiv:1704.03162, 2016. [[Paper]](https://arxiv.org/abs/1704.03162)   
+
+<img src="file/soa.png" width="800"> 
+
 
 ## Papers
 ### Image QA
@@ -35,7 +38,6 @@ A Strong Baseline For Visual Question Answering**, 			arXiv:1704.03162, 2016. [[
     - Kushal Kafle and Christopher Kanan, **Answer-Type Prediction for Visual Question Answering**, CVPR 2016.  [[Paper]](http://www.cv-foundation.org/openaccess/content_cvpr_2016/html/Kafle_Answer-Type_Prediction_for_CVPR_2016_paper.html) 
     - Stanislaw Antol, Aishwarya Agrawal, Jiasen Lu, Margaret Mitchell, Dhruv Batra, C. Lawrence Zitnick, Devi Parikh, **VQA: Visual Question Answering**, ICCV, 2015. [[Paper]](http://arxiv.org/pdf/1505.00468)
     - Stanislaw Antol, Aishwarya Agrawal, Jiasen Lu, Margaret Mitchell, Dhruv Batra, C. Lawrence Zitnick, Devi Parikh, **VQA: Visual Question Answering**, ICCV, 2015. [[Paper]](http://arxiv.org/pdf/1505.00468) [[code]](https://github.com/JamesChuanggg/VQA-tensorflow)
->>>>>>> f0455f47048310d903a6d26a8dc30dfd5c2ae8e8
     - Bolei Zhou, Yuandong Tian, Sainbayar Sukhbaatar, Arthur Szlam, Rob Fergus, **Simple Baseline for Visual Question Answering**, arXiv:1512.02167v2, Dec 2015. [[Paper]](http://arxiv.org/abs/1512.02167)
     - Hauyuan Gao, Junhua Mao, Jie Zhou, Zhiheng Huang, Lei Wang, Wei Xu, **Are You Talking to a Machine? Dataset and Methods for Multilingual Image Question Answering**, NIPS 2015. [[Paper]](http://arxiv.org/pdf/1505.05612.pdf)
     - Mateusz Malinowski, Marcus Rohrbach, Mario Fritz, **Ask Your Neurons: A Neural-based Approach to Answering Questions about Images**, ICCV 2015. [[Paper]](http://arxiv.org/pdf/1505.01121v3.pdf)
