@@ -13,6 +13,14 @@ A Strong Baseline For Visual Question Answering**, 			arXiv:1704.03162, 2016. [[
 
 
 ## Papers
+
+### CLEVR QA
+ - Latest Papers
+    - Justin Johnson, Bharath Hariharan, Laurens van der Maaten, Li Fei-Fei, C. Lawrence Zitnick, Ross Girshick, **CLEVR: A Diagnostic Dataset for Compositional Language and Elementary Visual Reasoning**, CVPR 2017. [[Paper]](http://vision.stanford.edu/pdf/johnson2017cvpr.pdf)
+    - Justin Johnson, Bharath Hariharan, Laurens van der Maaten, Judy Hoffman, Li Fei-Fei, C. Lawrence Zitnick, Ross Girshick, **Inferring and Executing Programs for Visual Reasoning**, arXiv:1705.03633, 2017. [[Paper]](https://arxiv.org/abs/1705.03633) 
+    - Ronghang Hu, Jacob Andreas, Marcus Rohrbach, Trevor Darrell, Kate Saenko, **Learning to Reason: End-to-End Module Networks for Visual Question Answering**, 	arXiv:1704.05526, 2017. [[Paper]](https://arxiv.org/abs/1704.05526)
+    - Adam Santoro, David Raposo, David G.T. Barrett, Mateusz Malinowski, Razvan Pascanu, Peter Battaglia, Timothy Lillicrap, **A simple neural network module for relational reasoning**,		arXiv:1706.01427, 2017. [[Paper]](https://arxiv.org/abs/1706.01427)
+
 ### Image QA
  - Latest Papers
     - Vahid Kazemi, Ali Elqursh, **Show, Ask, Attend, and Answer:
