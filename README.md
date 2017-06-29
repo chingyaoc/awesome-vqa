@@ -28,9 +28,9 @@ A Strong Baseline For Visual Question Answering**, 			arXiv:1704.03162, 2016. [[
 
 ### Image QA
  - Latest Papers
-    - Kushal Kafle, and Christopher Kanan. ***An Analysis of Visual Question Answering Algorithms.*** arXiv:1703.09684, 2017. [[Paper]](https://arxiv.org/abs/1703.09684)
     - Vahid Kazemi, Ali Elqursh, **Show, Ask, Attend, and Answer:
 A Strong Baseline For Visual Question Answering**, 			arXiv:1704.03162, 2016. [[Paper]](https://arxiv.org/abs/1704.03162)
+    - Kushal Kafle, and Christopher Kanan. ***An Analysis of Visual Question Answering Algorithms.*** arXiv:1703.09684, 2017. [[Paper]](https://arxiv.org/abs/1703.09684)
     - Hyeonseob Nam, Jung-Woo Ha, Jeonghee Kim, **Dual Attention Networks for Multimodal Reasoning and Matching**, 		arXiv:1611.00471, 2016. [[Paper]](https://arxiv.org/abs/1611.00471) 
     - Jin-Hwa Kim, Kyoung Woon On, Jeonghee Kim, Jung-Woo Ha, Byoung-Tak Zhang, **Hadamard Product for Low-rank Bilinear Pooling**, arXiv:1610.04325, 2016. [[Paper]](https://arxiv.org/abs/1610.04325)
     - Akira Fukui, Dong Huk Park, Daylen Yang, Anna Rohrbach, Trevor Darrell, Marcus Rohrbach, **Multimodal Compact Bilinear Pooling for Visual Question Answering and Visual Grounding**,	arXiv:1606.01847, 2016. [[Paper]](https://arxiv.org/abs/1606.01847) [[code]](https://github.com/akirafukui/vqa-mcb)
