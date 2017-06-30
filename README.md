@@ -15,7 +15,7 @@ A Strong Baseline For Visual Question Answering**, 			arXiv:1704.03162, 2016. [[
 
 ### Review Papers
 - Latest Papers
-    - Kushal Kushal, and Christopher Kanan. ***Visual question answering: Datasets, algorithms, and future challenges.*** Computer Vision and Image Understanding (2017). [[Paper]](https://arxiv.org/abs/1610.01465)
+    - Kushal Kafle, and Christopher Kanan. ***Visual question answering: Datasets, algorithms, and future challenges.*** Computer Vision and Image Understanding (2017). [[Paper]](https://arxiv.org/abs/1610.01465)
     - Qi Wu, Damien Teney, Peng Wang, Chunhua Shen, Anthony Dick, and Anton van den Hengel. ***Visual question answering: A survey of methods and datasets.*** Computer Vision and Image Understanding (2017). [[Paper]](https://arxiv.org/abs/1607.05910)
 
 
