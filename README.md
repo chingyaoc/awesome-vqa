@@ -11,8 +11,13 @@ A Strong Baseline For Visual Question Answering**, 			arXiv:1704.03162, 2016. [[
 
 <img src="file/soa.png" width="800"> 
 
-
 ## Papers
+
+### Review Papers
+- Latest Papers
+    - Kushal Kushal, and Christopher Kanan. ***Visual question answering: Datasets, algorithms, and future challenges.*** Computer Vision and Image Understanding (2017). [[Paper]](https://arxiv.org/abs/1610.01465)
+    - Qi Wu, Damien Teney, Peng Wang, Chunhua Shen, Anthony Dick, and Anton van den Hengel. ***Visual question answering: A survey of methods and datasets.*** Computer Vision and Image Understanding (2017). [[Paper]](https://arxiv.org/abs/1607.05910)
+
 
 ### CLEVR QA
  - Latest Papers
@@ -25,6 +30,7 @@ A Strong Baseline For Visual Question Answering**, 			arXiv:1704.03162, 2016. [[
  - Latest Papers
     - Vahid Kazemi, Ali Elqursh, **Show, Ask, Attend, and Answer:
 A Strong Baseline For Visual Question Answering**, 			arXiv:1704.03162, 2016. [[Paper]](https://arxiv.org/abs/1704.03162)
+    - Kushal Kafle, and Christopher Kanan. ***An Analysis of Visual Question Answering Algorithms.*** arXiv:1703.09684, 2017. [[Paper]](https://arxiv.org/abs/1703.09684)
     - Hyeonseob Nam, Jung-Woo Ha, Jeonghee Kim, **Dual Attention Networks for Multimodal Reasoning and Matching**, 		arXiv:1611.00471, 2016. [[Paper]](https://arxiv.org/abs/1611.00471) 
     - Jin-Hwa Kim, Kyoung Woon On, Jeonghee Kim, Jung-Woo Ha, Byoung-Tak Zhang, **Hadamard Product for Low-rank Bilinear Pooling**, arXiv:1610.04325, 2016. [[Paper]](https://arxiv.org/abs/1610.04325)
     - Akira Fukui, Dong Huk Park, Daylen Yang, Anna Rohrbach, Trevor Darrell, Marcus Rohrbach, **Multimodal Compact Bilinear Pooling for Visual Question Answering and Visual Grounding**,	arXiv:1606.01847, 2016. [[Paper]](https://arxiv.org/abs/1606.01847) [[code]](https://github.com/akirafukui/vqa-mcb)
