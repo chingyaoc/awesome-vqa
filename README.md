@@ -5,11 +5,10 @@ A reading list of resources dedicated to visual(image/video) question answering.
 ## Contributing
 Please feel free to contact [me](http://jameschuanggg.github.io). Issues and PRs are also welcome.
 
-## NEWS: Latest State-of-The-Art
-Vahid Kazemi, Ali Elqursh, **Show, Ask, Attend, and Answer:
-A Strong Baseline For Visual Question Answering**, 			arXiv:1704.03162, 2016. [[Paper]](https://arxiv.org/abs/1704.03162)   
+## NEWS: Latest State-of-The-Art (01/06/2017)
+Hedi Ben-younes, Remi Cadene, Matthieu Cord, Nicolas Thome: **MUTAN: Multimodal Tucker Fusion for Visual Question Answering** [[Paper]](https://arxiv.org/pdf/1705.06676.pdf) [[Code]](https://github.com/Cadene/vqa.pytorch)
 
-<img src="file/soa.png" width="800"> 
+<img src="file/mutan.png" width="800"> 
 
 ## Papers
 
@@ -28,6 +27,7 @@ A Strong Baseline For Visual Question Answering**, 			arXiv:1704.03162, 2016. [[
 
 ### Image QA
  - Latest Papers
+    - Hedi Ben-younes, Remi Cadene, Matthieu Cord, Nicolas Thome: **MUTAN: Multimodal Tucker Fusion for Visual Question Answering** [[Paper]](https://arxiv.org/pdf/1705.06676.pdf) [[Code]](https://github.com/Cadene/vqa.pytorch)
     - Vahid Kazemi, Ali Elqursh, **Show, Ask, Attend, and Answer:
 A Strong Baseline For Visual Question Answering**, 			arXiv:1704.03162, 2016. [[Paper]](https://arxiv.org/abs/1704.03162)
     - Kushal Kafle, and Christopher Kanan. ***An Analysis of Visual Question Answering Algorithms.*** arXiv:1703.09684, 2017. [[Paper]](https://arxiv.org/abs/1703.09684)
@@ -60,6 +60,7 @@ A Strong Baseline For Visual Question Answering**, 			arXiv:1704.03162, 2016. [[
     - Mateusz Malinowski, Mario Fritz, **A Multi-World Approach to Question Answering about Real-World Scenes based on Uncertain Input**, NIPS 2014. [[Paper]](http://arxiv.org/pdf/1410.0210v4.pdf)
      
  - Attention-Based
+    - Hedi Ben-younes, Remi Cadene, Matthieu Cord, Nicolas Thome: **MUTAN: Multimodal Tucker Fusion for Visual Question Answering** [[Paper]](https://arxiv.org/pdf/1705.06676.pdf) [[Code]](https://github.com/Cadene/vqa.pytorch)
     - Jin-Hwa Kim, Kyoung Woon On, Jeonghee Kim, Jung-Woo Ha, Byoung-Tak Zhang, **Hadamard Product for Low-rank Bilinear Pooling**, arXiv:1610.04325, 2016. [[Paper]](https://arxiv.org/abs/1610.04325)
     - Akira Fukui, Dong Huk Park, Daylen Yang, Anna Rohrbach, Trevor Darrell, Marcus Rohrbach, **Multimodal Compact Bilinear Pooling for Visual Question Answering and Visual Grounding**,	arXiv:1606.01847, 2016. [[Paper]](https://arxiv.org/abs/1606.01847)
     - Hyeonwoo Noh, Bohyung Han, **Training Recurrent Answering Units with Joint Loss Minimization for VQA**, 	arXiv:1606.03647, 2016. [[Paper]](http://arxiv.org/abs/1606.03647v1) 
