@@ -29,7 +29,7 @@ Hedi Ben-younes, Remi Cadene, Matthieu Cord, Nicolas Thome: **MUTAN: Multimodal 
  - Latest Papers
     - Hedi Ben-younes, Remi Cadene, Matthieu Cord, Nicolas Thome: **MUTAN: Multimodal Tucker Fusion for Visual Question Answering** [[Paper]](https://arxiv.org/pdf/1705.06676.pdf) [[Code]](https://github.com/Cadene/vqa.pytorch)
     - Vahid Kazemi, Ali Elqursh, **Show, Ask, Attend, and Answer:
-A Strong Baseline For Visual Question Answering**, 			arXiv:1704.03162, 2016. [[Paper]](https://arxiv.org/abs/1704.03162)
+A Strong Baseline For Visual Question Answering**, 			arXiv:1704.03162, 2016. [[Paper]](https://arxiv.org/abs/1704.03162) [[Code]](https://github.com/Cyanogenoid/pytorch-vqa)
     - Kushal Kafle, and Christopher Kanan. ***An Analysis of Visual Question Answering Algorithms.*** arXiv:1703.09684, 2017. [[Paper]](https://arxiv.org/abs/1703.09684)
     - Hyeonseob Nam, Jung-Woo Ha, Jeonghee Kim, **Dual Attention Networks for Multimodal Reasoning and Matching**, 		arXiv:1611.00471, 2016. [[Paper]](https://arxiv.org/abs/1611.00471) 
     - Jin-Hwa Kim, Kyoung Woon On, Jeonghee Kim, Jung-Woo Ha, Byoung-Tak Zhang, **Hadamard Product for Low-rank Bilinear Pooling**, arXiv:1610.04325, 2016. [[Paper]](https://arxiv.org/abs/1610.04325)
