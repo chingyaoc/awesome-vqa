@@ -27,6 +27,7 @@ Hedi Ben-younes, Remi Cadene, Matthieu Cord, Nicolas Thome: **MUTAN: Multimodal 
 
 ### Image QA
  - Latest Papers
+    - Yan Zhang, Jonathon Hare, Adam Prügel-Bennett: **Learning to Count Objects in Natural Images for Visual Question Answering** [[Paper]](https://arxiv.org/abs/1802.05766) [[Code]](https://github.com/Cyanogenoid/vqa-counting)
     - Hedi Ben-younes, Remi Cadene, Matthieu Cord, Nicolas Thome: **MUTAN: Multimodal Tucker Fusion for Visual Question Answering** [[Paper]](https://arxiv.org/pdf/1705.06676.pdf) [[Code]](https://github.com/Cadene/vqa.pytorch)
     - Vahid Kazemi, Ali Elqursh, **Show, Ask, Attend, and Answer:
 A Strong Baseline For Visual Question Answering**, 			arXiv:1704.03162, 2016. [[Paper]](https://arxiv.org/abs/1704.03162) [[Code]](https://github.com/Cyanogenoid/pytorch-vqa)
