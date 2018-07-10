@@ -1,14 +1,12 @@
-# Awesome Visual Question Answering
+# Awesome Visual Question Answering [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+<p align="center">
+  <img width="250" src="https://camo.githubusercontent.com/1131548cf666e1150ebd2a52f44776d539f06324/68747470733a2f2f63646e2e7261776769742e636f6d2f73696e647265736f726875732f617765736f6d652f6d61737465722f6d656469612f6c6f676f2e737667" "Awesome!">
+</p>
 
 A reading list of resources dedicated to visual(image/video) question answering.
 
 ## Contributing
 Please feel free to contact [me](http://jameschuanggg.github.io). Issues and PRs are also welcome.
-
-## NEWS: Latest State-of-The-Art (01/06/2017)
-Hedi Ben-younes, Remi Cadene, Matthieu Cord, Nicolas Thome: **MUTAN: Multimodal Tucker Fusion for Visual Question Answering** [[Paper]](https://arxiv.org/pdf/1705.06676.pdf) [[Code]](https://github.com/Cadene/vqa.pytorch)
-
-<img src="file/mutan.png" width="800"> 
 
 ## Papers
 
